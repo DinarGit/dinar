@@ -1,3 +1,4 @@
 HI DINAR
 
 PRIVET LUNATIK
+norm
